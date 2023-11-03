@@ -1,0 +1,33 @@
+Rakuten,10,20,bag,5
+Rakuten,7,20,bottle,2
+Rakuten,8,20,pen,1
+Rakuten,9,20,mobile,500
+Ibotta,13,30,chips,2
+Ibotta,12,30,drink,2
+Swagbucks,2,125,milk,6
+Swagbucks,3,125,ipad,900
+Swagbucks,4,125,shirt,35
+Swagbucks,6,125,jeans,60
+BeFrugal,15,110,jeans,60
+BeFrugal,11,110,bed,130
+Groupon,52,265,drink,2
+Groupon,48,265,water,4
+Groupon,40,265,milk,6
+Amazon coupons,19,338,milk,6
+Amazon coupons,29,338,ipad,900
+Amazon coupons,22,338,shirt,35
+Coupons.com,14,250,water,4
+RetailMeNot,60,100,mobile,500
+SmartSource,26,90,chips,2
+Savings.com,43,38,drink,2
+BradsDeals,36,56,pen,1
+BradsDeals,28,56,mobile,500
+BradsDeals,32,56,laptop,1500
+SlickDeals,74,201,milk,6
+SlickDeals,70,201,ipad,900
+CouponCause,81,198,chips,2
+CouponCause,83,198,shirt,35
+Hip2Save,27,300,pen,1
+Hip2Save,25,300,water,4
+Hip2Save,37,300,shirt,35
+Hip2Save,18,300,bed,130
